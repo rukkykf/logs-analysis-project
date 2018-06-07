@@ -1,0 +1,34 @@
+
+These are the three most popular
+articles on the news site:
++----------------------------------+--------+
+|          Article Title           | Views  |
++----------------------------------+--------+
+| Candidate is jerk, alleges rival | 338647 |
++----------------------------------+--------+
+| Bears love berries, alleges bear | 253801 |
++----------------------------------+--------+
+| Bad things gone, say good people | 170098 |
++----------------------------------+--------+
+
+These are the authors
+and their page views:
++------------------------+-------------+
+|      Author Name       | Total Views |
++------------------------+-------------+
+|    Ursula La Multa     |    507594   |
++------------------------+-------------+
+| Rudolf von Treppenwitz |    423457   |
++------------------------+-------------+
+| Anonymous Contributor  |    170098   |
++------------------------+-------------+
+|     Markoff Chaney     |    84557    |
++------------------------+-------------+
+
+These are the days that have a
+percentage request higher than 1%:
++----------------------+------------------------------+
+|         Day          | Percentage of Error Requests |
++----------------------+------------------------------+
+| Sunday, 17 July 2016 |            2.27%             |
++----------------------+------------------------------+
