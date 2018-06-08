@@ -1,8 +1,8 @@
 
-These are the three most popular
-articles on the news site:
+
+These are the three most popular articles on the news site:
 +----------------------------------+--------+
-|          Article Title           | Views  |
+|             Articles             | views  |
 +----------------------------------+--------+
 | Candidate is jerk, alleges rival | 338647 |
 +----------------------------------+--------+
@@ -11,8 +11,7 @@ articles on the news site:
 | Bad things gone, say good people | 170098 |
 +----------------------------------+--------+
 
-These are the authors
-and their page views:
+These are the authors and their page views:
 +------------------------+-------------+
 |      Author Name       | Total Views |
 +------------------------+-------------+
@@ -25,10 +24,9 @@ and their page views:
 |     Markoff Chaney     |    84557    |
 +------------------------+-------------+
 
-These are the days that have a
-percentage request higher than 1%:
-+----------------------+------------------------------+
-|         Day          | Percentage of Error Requests |
-+----------------------+------------------------------+
-| Sunday, 17 July 2016 |            2.27%             |
-+----------------------+------------------------------+
+These are the days that have a percentage request higher than 1%:
++----------------------+------------------+
+|         Day          | Error Percentage |
++----------------------+------------------+
+| Sunday, 17 July 2016 |      2.26%       |
++----------------------+------------------+
